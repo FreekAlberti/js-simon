@@ -1,0 +1,17 @@
+
+.posizione {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.visibile {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.invisible {
+  display: none;
+}
